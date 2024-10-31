@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Dashboard Main
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de um Painel Administrativo com a utilização de React+React Icons e Tailwind
 
 ## Learn More
 
